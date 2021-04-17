@@ -2,7 +2,7 @@
 
 ## A company that flips houses has hired me to to analyze housing data in Ames, IA to determine the most cost-effective remodeling targets to quickly build equity in houses. They want me to specifically identify features to look for in buying houses (that typically lower a house's sale price) and what exactly to improve before selling to get the best return on their investment.
 
-### Half of this project aims to answer the above problem statement, the other half was concerned with a Kaggle competition
+### Half of this project aims to answer the above problem statement, the other half was concerned with a related Kaggle competition
 
 
 ## Datasets Used
