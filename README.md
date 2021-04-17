@@ -66,7 +66,7 @@ These were our highest-correlated features:
    1. Siding -- Vinyl siding added the most value to a house of any other siding (compared to hardboard). Wood siding subtracted the most value. Recommendation: Look for houses with outdated/otherwise gross siding and slap some vinyl on that bad boy.
     
     
-   2. Furnace -- Having a standard forced-air furnace added a whopping 12,000 USD (*cp*) to sale price. On average, installing a furnace costs (apparently) about 2,000 USD. Recommendation: Buy houses with old/outdated/underperforming/inefficient furnaces, and replace them with nice ones.
+   2. Furnace -- Having a standard forced-air furnace added a whopping 12,000 USD (*ceteris paribus*) to sale price. On average, installing a furnace costs (apparently) about 2,000 USD. Recommendation: Buy houses with old/outdated/underperforming/inefficient furnaces, and replace them with nice ones.
    
    
    3. Kitchen -- Kitchen remodelling is anecdotally one of the best ways to add equity to your home. However, there is a lot of disagreement on what the average kitchen remodel costs. This statistical murkiness, coupled with the arcane rating system used by the assessor's office, make it hard to say for sure if kitchens are a good target for flipping houses. Recommendation: Take kitchens on a case-by-case basis. If a kitchen is crappy enough, and you can upgrade it economically enough, you can add significant equity to a house.
