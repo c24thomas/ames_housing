@@ -28,35 +28,35 @@ These were our highest-correlated features:
 
 1. Wood siding vs. Hardboard siding
 
-    -*All else being equal*, we can reasonably expect that wood siding will reduce the sale price of a home (compared to hardboard siding) by about \$9354
+    -*All else being equal*, we can reasonably expect that wood siding will reduce the sale price of a home (compared to hardboard siding) by about $9,354
     
 2. Composite shingle roof vs. other
 
-    -This one is kinda tough to interpret. Only ~1\% of our dataset was not composite shingles, so I think it's safe to assume that we have an outlier somewhere with a non-shingled roof, worth about $6711 more than our average composite shingled house
+    -This one is kinda tough to interpret. Only ~1% of our dataset was not composite shingles, so I think it's safe to assume that we have an outlier somewhere with a non-shingled roof, worth about $6,711 more than our average composite shingled house
     
 3. Enclosed porch
 
-    -*All else being equal*, we can reasonably expect that a house with an enclosed porch is worth about $5415 less than a house with no porch at all.
+    -*All else being equal*, we can reasonably expect that a house with an enclosed porch is worth about $5,415 less than a house with no porch at all.
     
 4. Plywood siding
 
-    -*All else being equal*, we can reasonably expect that plywood siding will reduce the sale price of a home (compared to hardboard siding) by about \$5160
+    -*All else being equal*, we can reasonably expect that plywood siding will reduce the sale price of a home (compared to hardboard siding) by about $5,160
     
 5. Stone masonry veneer vs. common brick
     
-    -*All else being equal*, we can reasonably expect that a house with stone masonry on the exterior will sell for about $26283 more than a house with common brick veneer
+    -*All else being equal*, we can reasonably expect that a house with stone masonry on the exterior will sell for about $26,283 more than a house with common brick veneer
     
 6. No masonry vs. common brick
 
-    -*All else being equal*, and interestingly, we can expect that a house with no masonry at all will sell for about $19024 more than a house with common brick veneer
+    -*All else being equal*, and interestingly, we can expect that a house with no masonry at all will sell for about $19,024 more than a house with common brick veneer
     
 7. Forced air
 
-    -*All else being equal*, we can reasonably expect that adding forced air heating to a house that previously did not have forced air will increase sale price by about \$12637
+    -*All else being equal*, we can reasonably expect that adding forced air heating to a house that previously did not have forced air will increase sale price by about \$12,637
     
 8. Vinyl siding vs hardboard
 
-    -*All else being equal*, we can reasonably expect that a house with vinyl siding will sell for about $10926 more than a house with hardboard siding
+    -*All else being equal*, we can reasonably expect that a house with vinyl siding will sell for about $10,926 more than a house with hardboard siding
  
 
 # Conclusion
@@ -66,7 +66,7 @@ These were our highest-correlated features:
    1. Siding -- Vinyl siding added the most value to a house of any other siding (compared to hardboard). Wood siding subtracted the most value. Recommendation: Look for houses with outdated/otherwise gross siding and slap some vinyl on that bad boy.
     
     
-   2. Furnace -- Having a standard forced-air furnace added a whopping 12,000 USD (*ceteris paribus*) to sale price. On average, installing a furnace costs (apparently) about 2,000 USD. Recommendation: Buy houses with old/outdated/underperforming/inefficient furnaces, and replace them with nice ones.
+   2. Furnace -- Having a standard forced-air furnace added a whopping $12,000 (*ceteris paribus*) to sale price. On average, installing a furnace costs (apparently) about $2,000. Recommendation: Buy houses with old/outdated/underperforming/inefficient furnaces, and replace them with nice ones.
    
    
    3. Kitchen -- Kitchen remodelling is anecdotally one of the best ways to add equity to your home. However, there is a lot of disagreement on what the average kitchen remodel costs. This statistical murkiness, coupled with the arcane rating system used by the assessor's office, make it hard to say for sure if kitchens are a good target for flipping houses. Recommendation: Take kitchens on a case-by-case basis. If a kitchen is crappy enough, and you can upgrade it economically enough, you can add significant equity to a house.
